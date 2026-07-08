@@ -87,7 +87,7 @@ python BreastCellDetection.py
 - Grad-CAM heatmap showing which regions influenced the prediction
 - Side by side display of original crop and heatmap
 
-![YOLO Detection](BreastCancer.png)
+![YOLO Detection](BreastCancerYOLO.png)
 
 ---
 
